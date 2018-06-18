@@ -27,8 +27,8 @@ If you use this software in an academic publication, and want to cite it in a pu
 and please let me know! I'm writing up a PhD and I'd love to hear if this has been useful to you.  
 Email: [stephenhowell@outlook.com](mailto://stephenhowell@outlook.com)  
 
-If you just want to cite where you got the software, please cite this page:  
-> Howell, S. (2012). Kinect2Scratch (Version 1.5) [Computer Software]. https://github.com/stephenhowell/kinect2scratch/version1
+If you just want to cite where you got the software, please cite this page or the latest software page:  
+> Howell, S. (2012). Kinect2Scratch (Version 1.5) [Computer Software]. https://stephenhowell.github.io/kinect2scratch/
 
 When not [working](https://twitter.com/Howell_MSFT), or being a husband, and dad to 4 great kids, I'm a PhD candidate in SMARTlab, College of Engineering, University College Dublin, Ireland.  
 You can email me academic opportunities (e.g. if you'd like to collaborate on some research): [stephen.howell@ucdconnect.ie](mailto://stephen.howell@ucdconnect.ie)
